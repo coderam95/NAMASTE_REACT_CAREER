@@ -1,0 +1,39 @@
+Chapter 1 - Inception
+
+Theory
+
+1. What is Emmet ? 
+
+Emmet is a set of plugins for text editors for developers who write HTML and CSS. Emmet helps developers to write in shorthand format and it will expand to longer presets with which we can create basic structures of tables, html etc.,
+
+2. Difference between library and a framework. 
+
+Libraries can be flexible in architecture and framework may already have set of rigid principles where there is less scope of customization.
+
+3. What is CDN ? How do we use it ? 
+
+CDN is a content delivery network or content distribution network. The data has to travel through the internet all the way from the server to reach the destination of the user. So it can cause performance issues if the user is far from the server. So the cached content is made available for the users in a nearby location. This can reduce performance issues while loading larger files such as images, videos, etc.
+
+4. Why is react called as react?
+
+React is called react because it reacts without reloading the page. It is called in the name also because it is more efficient and flexible.
+
+5. What is "crossorigin" in script tag ? 
+
+crossorigin keyword in script tag means Cross-Origin-Requests which specifies that it allows resources from other domains like images, fonts, stylesheets, etc.
+
+6. What is the difference between React and ReactDOM?
+
+Both React and ReactDOM are libraries of JavaScript. React is the core library for building user interfaces while ReactDOM is responsible for rendering the code to the DOM. 
+
+7. Difference between react development.js and react production.js files via CDN.
+
+In production.js, minification of JavaScript and other resources happens to reduce the size of the code whereas in production.js it is not minifying the code. Performance will be much faster in the production mode.
+
+8. What is async and defer ? 
+
+Async and defer are keywords using in script tags. While using async it will not stop the HTML parsing while the script tags are loading and the parsing is stopped when the scripts are executing. When the defer keyword is used, the html parsing is not stopped while the scripts are loaded and the scripts will be executed only when the HTML parsing is completed.
+
+This is the basic difference between async and defer keywords.
+
+
